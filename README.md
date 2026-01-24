@@ -1,2 +1,2 @@
-# clone-tabnews
+# Ludos
 Um site para aprender programação
